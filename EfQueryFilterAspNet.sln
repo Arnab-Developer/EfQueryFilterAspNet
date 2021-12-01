@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA30F0BE-A3AD-49D0-B89F-AFA01E0D1CC8}"
 	ProjectSection(SolutionItems) = preProject
+		.github\workflows\build.yml = .github\workflows\build.yml
 		DbSetup.sql = DbSetup.sql
 		LICENSE.txt = LICENSE.txt
 		README.md = README.md
